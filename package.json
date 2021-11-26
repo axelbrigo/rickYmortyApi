@@ -1,0 +1,24 @@
+{
+  "name": "rickymortiapp",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelbrigo/rickYmortyApi.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelbrigo/rickYmortyApi/issues"
+  },
+  "homepage": "https://github.com/axelbrigo/rickYmortyApi#readme"
+}
