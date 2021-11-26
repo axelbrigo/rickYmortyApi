@@ -1,0 +1,2 @@
+# rickYmortyApi
+consumiendo API
